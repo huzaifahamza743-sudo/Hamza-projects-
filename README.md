@@ -319,16 +319,6 @@ write memory
 
 ---
 
-# <div align="center">📊 GITHUB STATISTICS</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=huzaifahamza743-sudo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00FFB3&text_color=FFFFFF"/>
-
-</div>
-
----
-
 # <div align="center">🐍 CONTRIBUTION SNAKE</div>
 
 <div align="center">
