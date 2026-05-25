@@ -115,15 +115,15 @@ Here are the **lab topology diagrams** from the `images/` folder. Each image rep
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00b4d8&text_color=c9d1d9" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0d1117&stroke=00e5ff&ring=00b4d8&fire=00e5ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00e5ff&sideLabels=c9d1d9&dates=8b949e" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=huzaifahamza743-sudo&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00b4d8&text_color=c9d1d9" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifahamza743-sudo&hide_border=true&background=0d1117&stroke=00e5ff&ring=00b4d8&fire=00e5ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00e5ff&sideLabels=c9d1d9&dates=8b949e" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00e5ff&line=00b4d8&point=ffffff&area=true&hide_border=true" width="85%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifahamza743-sudo&bg_color=0d1117&color=00e5ff&line=00b4d8&point=ffffff&area=true&hide_border=true" width="85%">
 </p>
 
-> ⚡ *Replace `YOUR_USERNAME` with your GitHub username to see your real stats.*
+> 📊 *Stats update automatically based on your GitHub activity. Start committing to see your contributions!*
 
 ---
 
@@ -131,13 +131,13 @@ Here are the **lab topology diagrams** from the `images/` folder. Each image rep
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/huzaifahamza743-sudo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:huzaifahamza743@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <p align="center">
   💬 Open to networking discussions, study groups, and entry-level network engineer roles.<br>
-  ⭐ **Star this repo** if you find these labs helpful!
+  ⭐ **Star this repo** if you find these labs helpful — it keeps me motivated to share more!
 </p>
 
 <!-- Footer Waves -->
