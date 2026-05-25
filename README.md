@@ -1,144 +1,417 @@
-# 🌐 CCNA Network Labs – Master Core Routing & Switching
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=CCNA+Network+Labs;Real-World+Topologies;Routing+%26+Switching+Mastery;Packet+Tracer+Scenarios;100%+Lab+Ready" alt="Animated Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00F5FF,25:7F00FF,50:00FFB3,75:00C2FF,100:8A2BE2&text=CCNA%20Networking%20Lab&fontSize=55&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Cybersecurity%20%7C%20Cisco%20Networking%20%7C%20Packet%20Tracer&descAlignY=60" width="100%"/>
 
-<p align="center">
-  <!-- Badges -->
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/CCNA-005C8A?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Networking-00A3E0?style=for-the-badge&logo=internetarchive&logoColor=white" />
-  <img src="https://img.shields.io/badge/Packet_Tracer-1EAAE4?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlwEMJ3n7t/giphy.gif?cid=790b7611yi89rgu6dx41e76tsqb5xjkwbrd2z0kl1yzvebpf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="80%" />
-</p>
+<div align="center">
 
----
+# ⚡ FUTURISTIC NETWORKING LAB ⚡
 
-## 📖 Table of Contents
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=CCNA+Student+%7C+Networking+Enthusiast;Cisco+Packet+Tracer+Labs;Cybersecurity+%2B+Routing+%2B+Switching;Building+Modern+Network+Topologies;Future+Network+Security+Engineer" alt="Typing SVG" />
 
-- [📌 About This Repository](#-about-this-repository)
-- [📚 Labs Included](#-labs-included)
-- [🖼️ Lab Topology Gallery](#️-lab-topology-gallery)
-- [🧠 Skills Learned](#-skills-learned)
-- [🗺️ Learning Roadmap](#️-learning-roadmap)
-- [🤝 Contributions](#-contributions)
-- [📫 Contact](#-contact)
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=huzaifahamza743-sudo&label=PROFILE+VIEWS&color=0ff7ff&style=for-the-badge" />
+
+</div>
 
 ---
 
-## 📌 About This Repository
+<div align="center">
 
-<p align="center">
-  Welcome to my <b>CCNA Network Labs</b> repository — a structured, hands-on collection of Cisco networking scenarios built with <b>Packet Tracer</b>. 
-  Each lab simulates real-world enterprise networks, covering key topics like VLANs, static/dynamic routing, NAT, ACLs, and more. 
-  Perfect for CCNA candidates and networking enthusiasts looking to sharpen their CLI skills.
-</p>
+## 🌌 CYBER NETWORKING UNIVERSE
 
-> ⚡ **Goal**: Provide clear, repeatable labs with topology screenshots, configuration snippets, and step-by-step logic.
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTV1bGlyYWV1a2R3aTBvMzRkY3N0cGQ4YjF0b3hwbjY0bWV4a3FxZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif" width="100%"/>
+
+</div>
 
 ---
 
-## 📚 Labs Included
+# <div align="center">🚀 ABOUT ME</div>
 
-| # | Lab Title | Key Focus |
-|---|-----------|------------|
-| 1 | Basic Switch & VLAN Configuration | Access/Trunk ports, VLAN segmentation |
-| 2 | Static Routing & Default Routes | Manual routing, next-hop config |
-| 3 | OSPF Single Area | Dynamic routing, cost metrics |
-| 4 | DHCP & DNS Server Setup | Service integration, host automation |
-| 5 | Standard & Extended ACLs | Traffic filtering, security policies |
-| 6 | NAT Overload (PAT) | IP conservation, Internet access |
-| 7 | EtherChannel & STP Tuning | Redundancy, load balancing, loop prevention |
+<div align="center">
+
+```yaml
+Name: Huzaifa Hamza
+Role: CCNA Student
+Focus: Cisco Networking + Cybersecurity
+Passion: Building Scalable Network Topologies
+Environment: Cisco Packet Tracer
+Goal: Become a Professional Network Security Engineer
+```
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+## 🧠 Current Focus
+
+- 🔹 VLAN Configuration
+- 🔹 OSPF Routing
+- 🔹 STP Optimization
+- 🔹 Router Security
+- 🔹 Inter-VLAN Routing
+- 🔹 DHCP Services
+- 🔹 SSH Hardening
+- 🔹 Packet Tracer Simulations
+
+</td>
+
+<td width="50%">
+
+## 🌐 Repository Purpose
+
+This repository contains:
+
+✔️ Cisco networking labs  
+✔️ Packet Tracer topologies  
+✔️ Routing & switching configs  
+✔️ Network design practices  
+✔️ Security implementation labs  
+✔️ Realistic CCNA scenarios  
+
+</td>
+</tr>
+</table>
+
+---
+
+# <div align="center">⚡ TECHNOLOGY STACK</div>
+
+<div align="center">
+
+![Cisco](https://img.shields.io/badge/Cisco-0A0A0A?style=for-the-badge&logo=cisco&logoColor=00F5FF)
+![CCNA](https://img.shields.io/badge/CCNA-0A0A0A?style=for-the-badge&logo=cisco&logoColor=00F5FF)
+![Networking](https://img.shields.io/badge/Networking-0A0A0A?style=for-the-badge&logo=icloud&logoColor=00F5FF)
+![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=00FFB3)
+![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-0A0A0A?style=for-the-badge&logo=cisco&logoColor=7F00FF)
+
+<br>
+
+![Wireshark](https://img.shields.io/badge/Wireshark-0A0A0A?style=for-the-badge&logo=wireshark&logoColor=00F5FF)
+![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=FF4500)
+![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=00FFB3)
+
+</div>
+
+---
+
+# <div align="center">📡 CCNA LEARNING JOURNEY</div>
+
+<div align="center">
+
+| Stage | Progress |
+|-------|----------|
+| Networking Fundamentals | ██████████ 100% |
+| VLANs & Switching | █████████░ 90% |
+| Routing Protocols | ████████░░ 80% |
+| OSPF & Static Routing | ████████░░ 80% |
+| Network Security | ███████░░░ 70% |
+| Automation & Python | ██████░░░░ 60% |
+
+</div>
+
+---
+
+# <div align="center">🛠 NETWORKING SKILLS</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🔵 Routing
+
+OSPF  
+Static Routing  
+Default Routing  
+Router-on-a-Stick  
+
+</td>
+
+<td align="center" width="33%">
+
+### 🟣 Switching
+
+VLANs  
+STP  
+Trunking  
+EtherChannel  
+
+</td>
+
+<td align="center" width="33%">
+
+### 🟢 Security
+
+SSH  
+Port Security  
+Password Encryption  
+Basic Hardening  
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# <div align="center">🧪 NETWORKING LAB GALLERY</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="./images/img1.png" width="100%" alt="VLAN Configuration Lab"/>
+<br><br>
+<b>🔹 VLAN Configuration Lab</b>
+</td>
+
+<td align="center">
+<img src="./images/img2.png" width="100%" alt="OSPF Routing Lab"/>
+<br><br>
+<b>🔹 OSPF Routing Lab</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="./images/img3.png" width="100%" alt="STP Topology"/>
+<br><br>
+<b>🔹 STP Topology</b>
+</td>
+
+<td align="center">
+<img src="./images/img4.png" width="100%" alt="Packet Tracer Simulation"/>
+<br><br>
+<b>🔹 Packet Tracer Simulation</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="./images/img5.png" width="100%" alt="Inter-VLAN Routing"/>
+<br><br>
+<b>🔹 Inter-VLAN Routing</b>
+</td>
+
+<td align="center">
+<img src="./images/img6.png" width="100%" alt="DHCP Configuration"/>
+<br><br>
+<b>🔹 DHCP Configuration</b>
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="2">
+<img src="./images/img7.png" width="100%" alt="Network Design Practice"/>
+<br><br>
+<b>🔹 Network Design Practice</b>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# <div align="center">💻 ROUTER & SWITCH CONFIGURATIONS</div>
 
 <details>
-<summary><b>📘 Click to view lab descriptions</b></summary>
+<summary><b>⚡ Click To View Cisco IOS Configuration Examples</b></summary>
 
-- **Lab 1:** Configure VLAN 10 & 20 on a switch, assign ports, test inter-VLAN routing.  
-- **Lab 2:** Set static routes on routers R1/R2 to communicate across two LANs.  
-- **Lab 3:** Enable OSPF on three routers, verify neighbor adjacencies.  
-- **Lab 4:** Configure router as DHCP server + DNS forwarding.  
-- **Lab 5:** Block specific traffic using extended ACLs.  
-- **Lab 6:** Translate internal private IPs to single public IP.  
-- **Lab 7:** Group ports into EtherChannel and adjust STP root bridge.
+<br>
+
+```bash
+enable
+configure terminal
+
+! VLAN CONFIGURATION
+
+vlan 10
+ name SALES
+
+vlan 20
+ name HR
+
+interface fastethernet0/1
+ switchport mode access
+ switchport access vlan 10
+
+interface fastethernet0/2
+ switchport mode access
+ switchport access vlan 20
+
+! INTER-VLAN ROUTING
+
+interface gigabitEthernet0/0.10
+ encapsulation dot1Q 10
+ ip address 192.168.10.1 255.255.255.0
+
+interface gigabitEthernet0/0.20
+ encapsulation dot1Q 20
+ ip address 192.168.20.1 255.255.255.0
+
+! OSPF ROUTING
+
+router ospf 1
+ router-id 1.1.1.1
+ network 192.168.10.0 0.0.0.255 area 0
+ network 192.168.20.0 0.0.0.255 area 0
+
+! SSH CONFIGURATION
+
+hostname Router1
+ip domain-name ccnalab.local
+crypto key generate rsa
+username admin privilege 15 secret Cisco123
+
+line vty 0 4
+ transport input ssh
+ login local
+
+! BASIC ROUTER SECURITY
+
+service password-encryption
+enable secret StrongPassword123
+
+banner motd #
+Unauthorized Access Prohibited
+#
+
+end
+write memory
+```
 
 </details>
 
 ---
 
-## 🖼️ Lab Topology Gallery
+# <div align="center">🛰 PACKET TRACER PROJECTS</div>
 
-<p align="center">
-  <i>Hover over any image to zoom — each screenshot shows the lab topology, device labels, and running configuration snippets.</i>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="./images/img1.png" width="45%" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="./images/img2.png" width="45%" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" />
-</p>
+<table>
+<tr>
+<td width="50%" align="center">
 
-<p align="center">
-  <img src="./images/img3.png" width="45%" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="./images/img4.png" width="45%" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" />
-</p>
+## 🔷 VLAN & STP Labs
 
-<p align="center">
-  <img src="./images/img5.png" width="45%" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="./images/img6.png" width="45%" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" />
-</p>
+✔ VLAN segmentation  
+✔ Trunk configuration  
+✔ STP optimization  
+✔ Switch management  
 
-<p align="center">
-  <img src="./images/img7.png" width="45%" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" />
-</p>
+</td>
 
----
+<td width="50%" align="center">
 
-## 🧠 Skills Learned
+## 🔷 Routing Labs
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CLI-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/VLAN_Segmentation-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/OSPF-00C7B7?style=for-the-badge&logo=openwrt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Access_Lists-FF6F00?style=for-the-badge&logo=firewalla&logoColor=white" />
-  <img src="https://img.shields.io/badge/NAT%2FPAT-1E90FF?style=for-the-badge&logo=opnsense&logoColor=white" />
-  <img src="https://img.shields.io/badge/EtherChannel-8A2BE2?style=for-the-badge&logo=bridgestone&logoColor=white" />
-</p>
+✔ OSPF multi-area  
+✔ Static routing  
+✔ Router security  
+✔ Inter-VLAN communication  
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🗺️ Learning Roadmap
+# <div align="center">📊 GITHUB STATISTICS</div>
 
-```mermaid
-timeline
-    title CCNA Lab Progression
-    section Layer 2
-      VLANs & Trunking : Lab 1
-      EtherChannel & STP : Lab 7
-    section Layer 3
-      Static Routing : Lab 2
-      OSPF : Lab 3
-    section Services
-      DHCP/DNS : Lab 4
-    section Security
-      ACLs : Lab 5
-      NAT Overload : Lab 6
-🤝 Contributions
-Contributions, issues, and new lab ideas are welcome!
-Feel free to open a pull request or suggest improvements.
+<div align="center">
 
-Fork the repo
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=huzaifahamza743-sudo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00FFB3&text_color=FFFFFF"/>
 
-Create a new branch (git checkout -b lab-idea)
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifahamza743-sudo&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00FFB3&currStreakLabel=00F5FF"/>
 
-Commit your changes (git commit -m 'Add new lab: X')
+<br><br>
 
-Push and open a PR
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifahamza743-sudo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF"/>
 
-📫 Contact
-<p align="center"> 📧 <b>Email:</b> <a href="mailto:your.email@example.com">your.email@example.com</a> &nbsp;&nbsp;|&nbsp;&nbsp; 💼 <b>LinkedIn:</b> <a href="#">linkedin.com/in/yourprofile</a> </p>
-🌊 Footer Wave
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A3E0,100:1BA0D7&height=120&section=footer&fontColor=ffffff" width="100%" /> </p> ```
+</div>
+
+---
+
+# <div align="center">🐍 CONTRIBUTION SNAKE</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+# <div align="center">🎯 CERTIFICATION GOALS</div>
+
+<div align="center">
+
+| Certification | Status |
+|---------------|--------|
+| CCNA | 🔄 In Progress |
+| CCNP | 🎯 Planned |
+| CyberOps Associate | 🎯 Planned |
+| Linux Essentials | 🎯 Planned |
+| Network Security | 🎯 Planned |
+
+</div>
+
+---
+
+# <div align="center">🚀 FUTURE LEARNING GOALS</div>
+
+<div align="center">
+
+```diff
++ Advanced OSPF & EIGRP
++ Enterprise Network Security
++ Cisco ASA Firewall
++ SD-WAN Technologies
++ Python Network Automation
++ Ethical Hacking Fundamentals
++ Linux Server Administration
++ Wireshark Deep Packet Analysis
+```
+
+</div>
+
+---
+
+# <div align="center">🌐 CONNECT WITH ME</div>
+
+<div align="center">
+
+<a href="https://github.com/huzaifahamza743-sudo">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ CYBERPUNK NETWORK CORE ⚡
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG12b2t4eWZmc2I5aXh4aW9kNXhpb3Q5YTZrbzRxd3A4c3NrdTFqZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QNFhOolVeCzPQ2Mx85/giphy.gif" width="100%"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00F5FF,25:7F00FF,50:00FFB3,75:00C2FF,100:8A2BE2&text=Thanks%20For%20Visiting&fontSize=35&fontColor=ffffff&animation=twinkling"/>
+
+### 🌌 BUILD • SECURE • CONNECT • AUTOMATE 🌌
+
+</div>
