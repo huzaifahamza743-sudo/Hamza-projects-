@@ -18,16 +18,6 @@
 
 ---
 
-<div align="center">
-
-## 🌌 CYBER NETWORKING UNIVERSE
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTV1bGlyYWV1a2R3aTBvMzRkY3N0cGQ4YjF0b3hwbjY0bWV4a3FxZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif" width="100%"/>
-
-</div>
-
----
-
 # <div align="center">🚀 ABOUT ME</div>
 
 <div align="center">
@@ -335,12 +325,6 @@ write memory
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=huzaifahamza743-sudo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00FFB3&text_color=FFFFFF"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifahamza743-sudo&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00FFB3&currStreakLabel=00F5FF"/>
-
-<br><br>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifahamza743-sudo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF"/>
-
 </div>
 
 ---
@@ -403,12 +387,6 @@ write memory
 ---
 
 <div align="center">
-
-## ⚡ CYBERPUNK NETWORK CORE ⚡
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG12b2t4eWZmc2I5aXh4aW9kNXhpb3Q5YTZrbzRxd3A4c3NrdTFqZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QNFhOolVeCzPQ2Mx85/giphy.gif" width="100%"/>
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00F5FF,25:7F00FF,50:00FFB3,75:00C2FF,100:8A2BE2&text=Thanks%20For%20Visiting&fontSize=35&fontColor=ffffff&animation=twinkling"/>
 
