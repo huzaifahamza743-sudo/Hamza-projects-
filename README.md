@@ -116,7 +116,6 @@ Here are the **lab topology diagrams** from the `images/` folder. Each image rep
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=huzaifahamza743-sudo&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00b4d8&text_color=c9d1d9" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifahamza743-sudo&hide_border=true&background=0d1117&stroke=00e5ff&ring=00b4d8&fire=00e5ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00e5ff&sideLabels=c9d1d9&dates=8b949e" width="45%" />
 </p>
 
 <p align="center">
