@@ -24,7 +24,7 @@
 
 ```yaml
 Name: Huzaifa Hamza
-Role: CCNA Student
+Role: Network Engineer
 Focus: Cisco Networking + Cybersecurity
 Passion: Building Scalable Network Topologies
 Environment: Cisco Packet Tracer
