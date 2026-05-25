@@ -1,173 +1,179 @@
-<!-- Banner / Animated Header -->
+<!--
+  Professional CCNA Labs Repository README
+  Designed for dark mode compatibility and interactive elements
+-->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A86B,100:0052A5&height=200&section=header&text=CCNA%20Networking%20Labs&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Hands-on%20%7C%20Cisco%20%7C%20Real%20Topologies&descAlignY=55&descAlign=50" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00a86b,100:0052a5&height=200&section=header&text=CCNA%20Labs%20Playground&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Hands-on%20Networking%20%7C%20Cisco%20%7C%20Real%20Scenarios&descAlignY=60&descSize=18" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.ccna-labs&style=for-the-badge&label=VISITORS&color=0066FF" alt="visitor badge">
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
-  <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA">
+  <img src="https://img.shields.io/badge/CCNA-1C1E26?style=for-the-badge&logo=cisco&logoColor=1BA0D7" alt="CCNA">
+  <img src="https://img.shields.io/badge/Networking-2C3E50?style=for-the-badge&logo=internetarchive&logoColor=white" alt="Networking">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Networking-2E8B57?style=for-the-badge&logo=internetarchive&logoColor=white" alt="Networking">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
+  <img src="https://img.shields.io/badge/Packet_Tracer-1EAAE2?style=for-the-badge&logo=cisco&logoColor=white" alt="Packet Tracer">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&repo=ccna-labs&label=Lab+Visitors&color=0e75b6&style=flat-square" alt="visitor badge">
+  <img src="https://img.shields.io/github/stars/yourusername/ccna-labs?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/yourusername/ccna-labs?style=social" alt="GitHub forks">
 </p>
 
 ---
 
 ## 📖 Table of Contents
-- [📘 About This Repository](#-about-this-repository)
-- [⚙️ Technologies Used](#️-technologies-used)
-- [🌐 Networking Topics Covered](#-networking-topics-covered)
-- [🖼️ Lab Topologies](#️-lab-topologies)
+
+<details open>
+<summary><strong>Click to expand/navigate</strong></summary>
+
+- [📌 About the Repository](#-about-the-repository)
+- [⚙️ Technologies & Tools](#️-technologies--tools)
+- [📡 Networking Topics Covered](#-networking-topics-covered)
+- [🖧 Lab Topologies](#-lab-topologies)
+- [🎥 Lab Demo Videos](#-lab-demo-videos)
 - [🎯 Learning Goals](#-learning-goals)
 - [🚀 Future Improvements](#-future-improvements)
 - [🤝 Connect With Me](#-connect-with-me)
 
----
-
-## 📘 About This Repository
-
-> *"The more you practice, the closer you get to CCIE."*
-
-Welcome! 👋 I'm a **CCNA student** passionate about building a strong foundation in computer networking. This repository contains **my personal lab exercises**, **topology diagrams**, and **configuration files** created during my CCNA journey. All images are stored in the root directory for easy access.
-
-<details>
-<summary>📌 <strong>Why this repo exists?</strong></summary>
-
-- Document hands-on configurations (routing, switching, VLANs, OSPF)
-- Share visual topologies to help other learners
-- Track my progress with version-controlled labs
-- Build a portfolio for future networking roles
 </details>
 
 ---
 
-## ⚙️ Technologies Used
+## 📌 About the Repository
 
-| Tool / Technology       | Purpose                          | Badge                                                                                                         |
-|------------------------|----------------------------------|---------------------------------------------------------------------------------------------------------------|
-| **Cisco Packet Tracer** | Network simulation & labs        | ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?logo=cisco&logoColor=white)    |
-| **GNS3**               | Advanced topology emulation      | ![GNS3](https://img.shields.io/badge/GNS3-3A6EA5?logo=gns3&logoColor=white)                                   |
-| **Markdown**           | README & documentation           | ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown)                                       |
-| **Git & GitHub**       | Version control + collaboration  | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)                                      |
-| **VLAN / VTP**         | Layer2 segmentation              | ![VLAN](https://img.shields.io/badge/VLAN-2E8B57?logo=cisco&logoColor=white)                                  |
-| **OSPF**               | Dynamic routing (IPv4/IPv6)      | ![OSPF](https://img.shields.io/badge/OSPF-0052A5?logo=cisco&logoColor=white)                                  |
+<p align="center">
+  <i>"Hands-on experience is the bridge between theory and expertise."</i>
+</p>
+
+Welcome to my **CCNA Lab Playground** — a collection of real-world networking labs, topology designs, and configuration walkthroughs I built while preparing for the **Cisco Certified Network Associate (CCNA)** exam.  
+Every lab is tested in **Cisco Packet Tracer** and includes detailed topology images and demonstration videos.
+
+> ✅ Perfect for beginners & intermediate students looking to solidify routing, switching, VLANs, OSPF, and more.
 
 ---
 
-## 🌐 Networking Topics Covered
+## ⚙️ Technologies & Tools
+
+| **Category**       | **Tools / Technologies**                              |
+|--------------------|--------------------------------------------------------|
+| 📡 **Simulation**  | Cisco Packet Tracer, GNS3                             |
+| 🖥️ **Protocols**   | OSPF, VLANs, STP, DHCP, NAT, ACLs, SSH, IPv4/IPv6     |
+| 💻 **CLI**         | Cisco IOS commands, basic to advanced configs         |
+| 🛠️ **Documentation** | Markdown, GitHub, draw.io (topology design)          |
+| 🎬 **Media**       | Screen recordings (demo videos), topology PNGs        |
+
+---
+
+## 📡 Networking Topics Covered
 
 <details>
-<summary>📚 <strong>Click to expand the full list</strong> (CCNA blueprint aligned)</summary>
+<summary><b>🔽 Click to view full topic list</b></summary>
 
-| Topic Area            | Specific Skills                                  |
-|----------------------|--------------------------------------------------|
-| **IPv4 / IPv6**       | Addressing, subnetting, VLSM, SLAAC             |
-| **Routing Basics**    | Static routes, default routes, connected routes |
-| **Dynamic Routing**   | OSPFv2, OSPFv3 (single area)                    |
-| **Switching**         | VLANs, trunking (802.1Q), VTP, DTP              |
-| **EtherChannel**      | LACP, PAgP, load balancing                      |
-| **STP & Security**    | Rapid PVST+, PortFast, BPDUguard                |
-| **Device Management** | SSH, Telnet, console, HTTP/HTTPS                |
+- ✅ **Basic Router & Switch Configuration** (hostname, banners, passwords, SSH)
+- ✅ **VLANs & Trunking** (802.1Q, DTP, inter-VLAN routing)
+- ✅ **Spanning Tree Protocol (STP)** & EtherChannel
+- ✅ **Static & Dynamic Routing** (OSPFv2, OSPFv3)
+- ✅ **Access Control Lists (ACLs)** (standard, extended, named)
+- ✅ **Network Address Translation (NAT)** (static, dynamic, PAT)
+- ✅ **DHCP & DNS Configuration**
+- ✅ **IPv6 Addressing & Routing**
+- ✅ **First Hop Redundancy** (HSRP/VRRP basics)
+- ✅ **Troubleshooting & Network Verification**
+
 </details>
 
 ---
 
-## 🖼️ Lab Topologies
+## 🖧 Lab Topologies
 
-Explore the visual network designs used in my labs. Each image is a real topology from Cisco Packet Tracer or GNS3.
+Browse through the network designs I've created for each lab. Click the images to view full resolution (if stored locally).
 
-### 🔹 Lab 1 — Basic Router Configuration  
-*Initial setup: hostnames, banners, passwords, and interface IPs.*
+| **Lab 1 — Basic Router Setup** | **Lab 2 — Static Routing** |
+|:-------------------------------:|:----------------------------:|
+| ![Lab 1](lab1.png)              | ![Lab 2](lab2.png)            |
+| *Two routers with basic config* | *Three routers via static routes* |
 
-<p align="center">
-  <img src="lab1.png" alt="Basic Router Configuration Topology" width="80%" style="border-radius: 16px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
-</p>
+| **Lab 3 — Inter-VLAN Routing** | **OSPF Multi-Area** |
+|:-------------------------------:|:--------------------:|
+| ![Lab 3](lab3.png)              | ![OSPF Topology](ospf-topology.png) |
+| *Router-on-a-stick + SVIs*      | *Area 0 + Area 1 design* |
 
----
+| **VLAN Configuration Example** |
+|:-------------------------------:|
+| ![VLAN Config](vlan-config.png) |
+| *Switch port assignments & trunking* |
 
-### 🔹 Lab 2 — Static Routing & Default Routes  
-*Reachability between two isolated networks with manual routes.*
-
-<p align="center">
-  <img src="lab2.png" alt="Static Routing Topology" width="80%" style="border-radius: 16px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
-</p>
-
----
-
-### 🔹 Lab 3 — EtherChannel & Trunking  
-*Link aggregation and inter-switch VLAN trunking.*
-
-<p align="center">
-  <img src="lab3.png" alt="EtherChannel and Trunking" width="80%" style="border-radius: 16px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
-</p>
+> 📁 All topology images are stored in the root folder of this repository.
 
 ---
 
-### 🔹 OSPF Multi-Area Topology  
-*Simulating OSPFv2 with area 0 and area 1, including DR/BDR election.*
+## 🎥 Lab Demo Videos
 
-<p align="center">
-  <img src="ospf-topology.png" alt="OSPF Topology" width="80%" style="border-radius: 16px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
-</p>
+Watch the configuration and verification in action. Click the thumbnails to play or download the videos.
 
----
+### 🔹 Lab 1 — Basic Router Configuration
+[▶️ **Watch Lab 1 Demo**](lab1-demo.mp4)  
+*Includes: hostname setup, interface IPs, SSH enablement.*
 
-### 🔹 VLAN Configuration Lab  
-*Creating data VLANs, voice VLAN, and 802.1Q trunk.*
+### 🔹 VLAN Configuration (Trunk + Access Ports)
+[▶️ **Watch VLAN Demo**](vlan-demo.mp4)  
+*Shows: VLAN creation, trunk negotiation, inter-VLAN routing testing.*
 
-<p align="center">
-  <img src="vlan-config.png" alt="VLAN Configuration" width="80%" style="border-radius: 16px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
-</p>
+### 🔹 OSPF Single-Area & Multi-Area
+[▶️ **Watch OSPF Demo**](ospf-demo.mp4)  
+*Covers: OSPF router ID, network statements, passive interfaces, verification.*
+
+> 💡 *All `.mp4` files are directly accessible from the root directory. If GitHub doesn't embed them natively, you can clone and play locally or download from the repo.*
 
 ---
 
 ## 🎯 Learning Goals
 
-- ✅ **Pass the CCNA 200-301 exam** with hands-on confidence  
-- ✅ Master **troubleshooting methodology** using `show` and `debug`  
-- ✅ Build a mental map of **packet flow** across L2/L3 devices  
-- ✅ Automate small tasks with Python & Netmiko (future step)  
-- ✅ Document every lab with clear **topology + config + verification**  
+By exploring this repository, you will be able to:
+
+- 🧠 **Understand** core CCNA concepts through practical examples.
+- ✍️ **Write** and troubleshoot Cisco IOS commands with confidence.
+- 🧪 **Design** small to medium-sized networks using VLANs, routing, and ACLs.
+- 🧰 **Use** Packet Tracer effectively for exam preparation.
+- 📈 **Build** a portfolio that showcases hands-on networking skills.
 
 ---
 
 ## 🚀 Future Improvements
 
-- [ ] Add startup-configs for each lab in `/configs` folder  
-- [ ] Create **interactive network maps** using draw.io or Markmap  
-- [ ] Write a **troubleshooting stories** section for each lab  
-- [ ] Integrate GitHub Actions to auto-check lab configs  
-- [ ] Add YouTube walkthrough links for complex labs  
+- [ ] Add more advanced labs: **MPLS basics**, **VRF-lite**, **DMVPN**.
+- [ ] Convert topology images to **interactive draw.io diagrams**.
+- [ ] Write a **step-by-step PDF guide** for each lab.
+- [ ] Include **Packet Tracer `.pkt` files** for download.
+- [ ] Automate config verification with Python scripts.
+- [ ] Create a **wiki** section for common troubleshooting.
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <i>“Networking is not just about cables and routers — it's about connecting people, systems, and opportunities.”</i><br>
+  ⚡ Keep learning, keep building, keep connecting.
 </p>
 
 ---
 
-## 📊 GitHub Stats (placeholder)
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true&background=0D1117" width="48%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052a5,100:00a86b&height=120&section=footer" width="100%">
 </p>
 
----
-
-> *“Networking is not just about cables and protocols — it’s about connecting people, ideas, and the future.”*  
-> — Anonymous network engineer
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052A5,100:00A86B&height=120&section=footer" width="100%">
+  <sub>Made with 🧪 by a CCNA student — Lab by lab, route by route.</sub><br>
+  <sub>© 2025 | Open for learning and collaboration</sub>
 </p>
-
-**⭐ Found this repo helpful? Give it a star to support a future CCNA!**  
-📌 *Last updated: 2026* — Always learning, always building.
