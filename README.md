@@ -22,14 +22,12 @@
 
 <div align="center">
 
-```yaml
 Name: Huzaifa Hamza
 Role: Network Engineer
 Focus: Cisco Networking + Cybersecurity
 Passion: Building Scalable Network Topologies
 Environment: Cisco Packet Tracer
 Goal: Become a Professional Network Security Engineer
-```
 
 </div>
 
@@ -49,7 +47,6 @@ Goal: Become a Professional Network Security Engineer
 - 🔹 Packet Tracer Simulations
 
 </td>
-
 <td width="50%">
 
 ## 🌐 Repository Purpose
@@ -124,7 +121,6 @@ Default Routing
 Router-on-a-Stick  
 
 </td>
-
 <td align="center" width="33%">
 
 ### 🟣 Switching
@@ -135,7 +131,6 @@ Trunking
 EtherChannel  
 
 </td>
-
 <td align="center" width="33%">
 
 ### 🟢 Security
@@ -162,51 +157,92 @@ Basic Hardening
 <td align="center">
 <img src="./images/img1.png" width="100%" alt="VLAN Configuration Lab"/>
 <br><br>
-<b>🔹 VLAN Configuration</b>
+<b>🔹 VLAN Segmentation & Access Ports</b>
 </td>
-
 <td align="center">
-<img src="./images/img2.png" width="100%" alt="OSPF Routing Lab"/>
+<img src="./images/img2.png" width="100%" alt="VLAN Connectivity Testing Ping Test"/>
 <br><br>
-<b>🔹 VLAN Connectivity Testing (Ping Test)</b>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="./images/img3.png" width="100%" alt="STP Topology"/>
-<br><br>
-<b>🔹 Telnet Configuration</b>
-</td>
-
-<td align="center">
-<img src="./images/img4.png" width="100%" alt="Packet Tracer Simulation"/>
-<br><br>
-<b>🔹 Telnet Connectivity Verification</b>
+<b>🔹 Inter-VLAN Reachability Validation (Ping)</b>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="./images/img5.png" width="100%" alt="Inter-VLAN Routing"/>
+<img src="./images/img3.png" width="100%" alt="Telnet Configuration"/>
 <br><br>
-<b>🔹 Inter-VLAN Routing using Router-on-a-Stick (Sub-Interfaces)</b>
+<b>🔹 Remote Management with Telnet</b>
 </td>
-
 <td align="center">
-<img src="./images/img6.png" width="100%" alt="DHCP Configuration"/>
+<img src="./images/img4.png" width="100%" alt="Telnet Connectivity Verification"/>
 <br><br>
-<b>🔹Inter-VLAN Routing Ping Test</b>
+<b>🔹 Telnet Session & Credential Verification</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="./images/img5.png" width="100%" alt="Inter-VLAN Routing using Router-on-a-Stick Sub-Interfaces"/>
+<br><br>
+<b>🔹 Router-on-a-Stick: 802.1Q Sub-Interfaces</b>
+</td>
+<td align="center">
+<img src="./images/img6.png" width="100%" alt="Inter-VLAN Routing Ping Test"/>
+<br><br>
+<b>🔹 Inter-VLAN Routing: End-to-End Ping Test</b>
 </td>
 </tr>
 
 <tr>
 <td align="center" colspan="2">
-<img src="./images/img7.png" width="100%" alt="Network Design Practice"/>
+<img src="./images/img7.png" width="100%" alt="OSPF Configuration"/>
 <br><br>
-<b>🔹 OSPF Configuration</b>
+<b>🔹 OSPF Single-Area Routing Design</b>
 </td>
 </tr>
+
+<!-- ========== NEW LABS START ========== -->
+
+<tr>
+<td align="center">
+<img src="./images/img8.png" width="100%" alt="DHCP Configuration on Cisco Router"/>
+<br><br>
+<b>🔹 DHCP Pool Configuration & IP Lease Management</b>
+</td>
+<td align="center">
+<img src="./images/img9.png" width="100%" alt="EtherChannel Configuration"/>
+<br><br>
+<b>🔹 EtherChannel Link Aggregation (LACP/PAgP)</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="./images/img10.png" width="100%" alt="EtherChannel Verification Commands"/>
+<br><br>
+<b>🔹 EtherChannel Load Balancing & Status Verification</b>
+</td>
+<td align="center">
+<img src="./images/img11.png" width="100%" alt="OSPF Neighbor Adjacency States"/>
+<br><br>
+<b>🔹 OSPF Adjacency & DR/BDR Election Verification</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="./images/img12.png" width="100%" alt="Route Redistribution OSPF to EIGRP Lab"/>
+<br><br>
+<b>🔹 Route Redistribution: OSPF ↔ EIGRP (Mutual Redistribution)</b>
+</td>
+<td align="center">
+<img src="./images/img13.png" width="100%" alt="RSTP Configuration on Cisco Switch"/>
+<br><br>
+<b>🔹 RSTP (802.1w) Rapid Spanning Tree Optimization</b>
+</td>
+</tr>
+
+<!-- ========== NEW LABS END ========== -->
+
 </table>
 
 </div>
@@ -301,7 +337,6 @@ write memory
 ✔ Switch management  
 
 </td>
-
 <td width="50%" align="center">
 
 ## 🔷 Routing Labs
@@ -383,3 +418,4 @@ write memory
 ### 🌌 BUILD • SECURE • CONNECT • AUTOMATE 🌌
 
 </div>
+```
