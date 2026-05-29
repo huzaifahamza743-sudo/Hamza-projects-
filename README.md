@@ -204,12 +204,12 @@ Basic Hardening
 
 <tr>
 <td align="center">
-<img src="./images/img8.png" width="100%" alt="DHCP Configuration on Cisco Router"/>
+<img src="./images/img8.jpeg" width="100%" alt="DHCP Configuration on Cisco Router"/>
 <br><br>
 <b>🔹 DHCP Pool Configuration & IP Lease Management</b>
 </td>
 <td align="center">
-<img src="./images/img9.png" width="100%" alt="EtherChannel Configuration"/>
+<img src="./images/img9.jpeg" width="100%" alt="EtherChannel Configuration"/>
 <br><br>
 <b>🔹 EtherChannel Link Aggregation (LACP/PAgP)</b>
 </td>
@@ -217,12 +217,12 @@ Basic Hardening
 
 <tr>
 <td align="center">
-<img src="./images/img10.png" width="100%" alt="EtherChannel Verification Commands"/>
+<img src="./images/img10.jpeg" width="100%" alt="EtherChannel Verification Commands"/>
 <br><br>
 <b>🔹 EtherChannel Load Balancing & Status Verification</b>
 </td>
 <td align="center">
-<img src="./images/img11.png" width="100%" alt="OSPF Neighbor Adjacency States"/>
+<img src="./images/img11.jpeg" width="100%" alt="OSPF Neighbor Adjacency States"/>
 <br><br>
 <b>🔹 OSPF Adjacency & DR/BDR Election Verification</b>
 </td>
@@ -230,12 +230,12 @@ Basic Hardening
 
 <tr>
 <td align="center">
-<img src="./images/img12.png" width="100%" alt="Route Redistribution OSPF to EIGRP Lab"/>
+<img src="./images/img12.jpeg" width="100%" alt="Route Redistribution OSPF to EIGRP Lab"/>
 <br><br>
 <b>🔹 Route Redistribution: OSPF ↔ EIGRP (Mutual Redistribution)</b>
 </td>
 <td align="center">
-<img src="./images/img13.png" width="100%" alt="RSTP Configuration on Cisco Switch"/>
+<img src="./images/img13.jpeg" width="100%" alt="RSTP Configuration on Cisco Switch"/>
 <br><br>
 <b>🔹 RSTP (802.1w) Rapid Spanning Tree Optimization</b>
 </td>
