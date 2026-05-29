@@ -176,13 +176,13 @@ Basic Hardening
 <td align="center">
 <img src="./images/img3.png" width="100%" alt="STP Topology"/>
 <br><br>
-<b>🔹 STP Topology</b>
+<b>🔹 Telnet Configuration</b>
 </td>
 
 <td align="center">
 <img src="./images/img4.png" width="100%" alt="Packet Tracer Simulation"/>
 <br><br>
-<b>🔹 Packet Tracer Simulation</b>
+<b>🔹 Telnet Connectivity Verification</b>
 </td>
 </tr>
 
@@ -190,13 +190,13 @@ Basic Hardening
 <td align="center">
 <img src="./images/img5.png" width="100%" alt="Inter-VLAN Routing"/>
 <br><br>
-<b>🔹 Inter-VLAN Routing</b>
+<b>🔹 Inter-VLAN Routing using Router-on-a-Stick (Sub-Interfaces)</b>
 </td>
 
 <td align="center">
 <img src="./images/img6.png" width="100%" alt="DHCP Configuration"/>
 <br><br>
-<b>🔹 DHCP Configuration</b>
+<b>🔹Inter-VLAN Routing Ping Test</b>
 </td>
 </tr>
 
@@ -204,7 +204,7 @@ Basic Hardening
 <td align="center" colspan="2">
 <img src="./images/img7.png" width="100%" alt="Network Design Practice"/>
 <br><br>
-<b>🔹 Network Design Practice</b>
+<b>🔹 OSPF Configuration</b>
 </td>
 </tr>
 </table>
