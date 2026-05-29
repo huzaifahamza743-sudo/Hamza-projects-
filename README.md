@@ -162,13 +162,13 @@ Basic Hardening
 <td align="center">
 <img src="./images/img1.png" width="100%" alt="VLAN Configuration Lab"/>
 <br><br>
-<b>🔹 VLAN Configuration Lab</b>
+<b>🔹 VLAN Configuration</b>
 </td>
 
 <td align="center">
 <img src="./images/img2.png" width="100%" alt="OSPF Routing Lab"/>
 <br><br>
-<b>🔹 OSPF Routing Lab</b>
+<b>🔹 VLAN Connectivity Testing (Ping Test)</b>
 </td>
 </tr>
 
